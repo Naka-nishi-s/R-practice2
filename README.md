@@ -8,4 +8,4 @@ React 用は[こちら](https://github.com/Naka-nishi-s/R-practice)
 
 ## システム全体図
 
-![システム全体図](./sample/etc/システム全体図.png)
+![システム全体図](./etc/システム全体図.png)
